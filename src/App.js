@@ -9,13 +9,13 @@ export function App() {
         <button
           onClick={() => console.log('Increment')}
           >
-          Increment
+          Really Increment
         </button>
         <span className='value'>count</span>
         <button
           onClick={() => console.log('Decrement')}
         >
-          Decrement
+          Really Decrement
         </button>
       </div>
     </div>
