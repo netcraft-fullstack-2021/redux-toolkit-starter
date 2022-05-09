@@ -9,7 +9,7 @@ export function App() {
         <button
           onClick={() => console.log('Increment')}
           >
-          Increment
+          Increment by one
         </button>
         <span className='value'>count</span>
         <button
